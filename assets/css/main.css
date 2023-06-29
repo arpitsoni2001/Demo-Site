@@ -1646,7 +1646,7 @@ body {
 .work-request--information input[type="text"]:focus,
 .work-request--information input[type="email"]:focus {
     outline: none;
-    background-color: #0c0c0c
+    /* background-color: #0c0c0c */
 }
 
 .work-request--information label {
